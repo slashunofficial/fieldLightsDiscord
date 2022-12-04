@@ -1,0 +1,38 @@
+/**
+ * @name Field Lights
+ * @description Discord theme based on Visual Studio Code theme
+ * @author kxcq
+ * @version 1.1.0
+ * @authorId 693003315608420373
+ * @source 
+ * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.theme.css
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+:root {
+  --font: "Lato", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --settingsicons: 1;
+
+  --accentcolor: 255, 174, 87;
+  --accentcolor2: 255, 115, 250;
+  --linkcolor: 255, 174, 87;
+  --mentioncolor: 255, 174, 87;
+  --successcolor: 59, 165, 92;
+  --warningcolor: 250, 166, 26;
+  --dangercolor: 237, 66, 69;
+
+  --textbrightest: 255, 255, 255;
+  --textbrighter: 222, 222, 222;
+  --textbright: 185, 185, 185;
+  --textdark: 140, 140, 140;
+  --textdarker: 115, 115, 115;
+  --textdarkest: 80, 80, 80;
+
+  --backgroundaccent: 50, 50, 50;
+  --backgroundprimary: 33, 39, 51;
+  --backgroundsecondary: 26, 31, 40;
+  --backgroundsecondaryalt: 26, 31, 40;
+  --backgroundtertiary: 20, 23, 30;
+  --backgroundfloating: 0, 0, 0;
+}
